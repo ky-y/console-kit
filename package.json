@@ -1,0 +1,16 @@
+{
+    "name": "@ky-y./console-kit",
+    "version": "0.0.1",
+    "main": "dist/index.js",
+    "repository": "https://github.com/ky-y/console-kit.git",
+    "author": "kyoya0819 <kyoya0819@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "build": "tsc --project tsconfig.dist.json"
+    },
+    "devDependencies": {
+        "@types/node": "^20.11.25",
+        "typescript": "^5.4.2"
+    },
+    "packageManager": "yarn@4.1.1"
+}
